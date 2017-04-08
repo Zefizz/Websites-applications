@@ -1,0 +1,45 @@
+html {
+	background-color : #abc;
+	font-family : serif;
+}
+
+h1 {
+	text-align : center;
+}
+
+
+#div1 {
+	margin-right : 50%;
+	position : relative;
+	background-color : #def;
+	border-radius : 10px;
+	box-shadow: 10px 10px 5px #8181f1;
+}
+
+#div2 {
+	border-style : solid;
+	background-color : #def;
+	border-width : 3px;
+	margin-left : 25%;
+	margin-right : 25%;	
+}
+
+table {
+	margin-left : auto;
+	margin-right : auto;
+	
+}
+
+.card {
+	border-width : 5px;
+	border-style : solid;
+	border-radius : 20px;
+	border-color : #000;
+	text-align : center;
+	background-color : #aaa;
+	display : inline-block;
+	vertical-align : middle;
+	width : 75px;
+	height : 75px;
+}
+
