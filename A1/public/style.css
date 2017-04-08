@@ -1,0 +1,28 @@
+html {
+	background-color : #abc;
+}
+
+div {
+	padding : 20px;
+	margin-left : 25%;
+}
+
+h1 {
+	margin-left : 25%;
+}
+
+#div1 {
+	
+	margin-right : 50%;
+	background-color : #def;
+	border-radius : 10px;
+	box-shadow: 10px 10px 5px #8181f1;
+}
+
+
+#div2 {
+	margin-right : 25%;
+	border-style : solid;
+	background-color : #def;
+	border-width : 3px;
+}
