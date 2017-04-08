@@ -1,6 +1,6 @@
-Author:    Maclean Sheppard 101006987
-Course:    COMP 2406 W17
-Professor: Andrew Runka
+Author:    Zefizz *********
+Course:    *********
+Professor: *********
 
 REQURED MODUELS:
 	fs, http, url (included by default)
